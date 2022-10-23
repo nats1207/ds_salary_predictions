@@ -1,3 +1,6 @@
+# used code from: https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
+# github: https://github.com/arapfaik/scraping-glassdoor-selenium
+
 # import packages
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException, StaleElementReferenceException
 from selenium import webdriver
@@ -133,7 +136,7 @@ def get_jobs(keyword, num_jobs, verbose):
                 "location": location,
                 "job_title": job_title,
                 "salary": salary,
-                "salaray_range": salary_range,
+                "salary_range": salary_range,
                 "size": size,
                 "founded": founded,
                 "type_of_ownership": type_of_ownership,
