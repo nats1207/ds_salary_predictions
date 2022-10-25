@@ -54,7 +54,7 @@ def get_jobs(keyword, num_jobs, verbose):
             by="xpath", value='.//article[@id="MainCol"]//ul/li[@data-adv-type="GENERAL"]')
         for job_button in job_buttons:
 
-            print("Progress: {}".format(
+            print("Progress stan: {}".format(
                 "" + str(len(jobs)) + "/" + str(num_jobs)))
             if len(jobs) >= num_jobs:
                 break
@@ -67,11 +67,17 @@ def get_jobs(keyword, num_jobs, verbose):
                 except StaleElementReferenceException:
                     stale = True
 
-            time.sleep(1)
-
+            # close login pop-up
             try:
                 driver.find_element(
-                    by="xpath", value='.//span[@class="SVGInline modal_closeIcon"]').click()
+                    by="xpath", value='.//svg[@class="SVGInline modal_closeIcon"]').click()
+            except NoSuchElementException:
+                pass
+
+            # expand job descripion
+            try:
+                driver.find_element(
+                    by="xpath", value='//div[@class="css-t3xrds e856ufb5"]').click()
             except NoSuchElementException:
                 pass
 
@@ -111,6 +117,12 @@ def get_jobs(keyword, num_jobs, verbose):
                     salary_range = ''
 
                 try:
+                    job_description = driver.find_element(
+                        by="xpath", value='.//div[@class="jobDescriptionContent desc"]').text
+                except NoSuchElementException:
+                    job_description = ''
+
+                try:
                     company_overview_list = driver.find_elements(
                         by="xpath", value='.//span[@class="css-i9gxme e1pvx6aw2"]')
 
@@ -137,6 +149,7 @@ def get_jobs(keyword, num_jobs, verbose):
                 "job_title": job_title,
                 "salary": salary,
                 "salary_range": salary_range,
+                "job_description": job_description,
                 "size": size,
                 "founded": founded,
                 "type_of_ownership": type_of_ownership,
