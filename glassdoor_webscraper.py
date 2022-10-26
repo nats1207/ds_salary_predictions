@@ -54,7 +54,7 @@ def get_jobs(keyword, num_jobs, verbose):
             by="xpath", value='.//article[@id="MainCol"]//ul/li[@data-adv-type="GENERAL"]')
         for job_button in job_buttons:
 
-            print("Progress stan: {}".format(
+            print("Progress: {}".format(
                 "" + str(len(jobs)) + "/" + str(num_jobs)))
             if len(jobs) >= num_jobs:
                 break
@@ -70,9 +70,11 @@ def get_jobs(keyword, num_jobs, verbose):
             # close login pop-up
             try:
                 driver.find_element(
-                    by="xpath", value='.//svg[@class="SVGInline modal_closeIcon"]').click()
+                    by="xpath", value='.//span[@class="SVGInline modal_closeIcon"]').click()
             except NoSuchElementException:
                 pass
+
+            time.sleep(1)
 
             # expand job descripion
             try:

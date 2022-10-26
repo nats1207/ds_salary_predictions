@@ -1,186 +1,203 @@
-company_name,location,job_title,salary,salary_range,size,founded,type_of_ownership,industry,sector,revenue
-"Veneficus
-4.2",Rotterdam,Data Analist,€ 3.850 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,1 tot 50 werknemers,1998,Privébedrijf,Uitgeverijen,Media en communicatie,Onbekend/niet van toepassing
-"Veneficus
-4.2",Rotterdam,Data Analist,€ 3.850 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,1 tot 50 werknemers,1998,Privébedrijf,Uitgeverijen,Media en communicatie,Onbekend/niet van toepassing
-"Breinstein Detachering
-4.4",Amsterdam,Junior Data Engineer,€ 3.600 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,51 tot 200 werknemers,2010,Privébedrijf,HR-advies,HR en personeel,Onbekend/niet van toepassing
-"Centric
-3.9",IJsselstein,Data Scientist,€ 4.250 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 6K,1001 tot 5000 werknemers,1992,Privébedrijf,IT-ondersteuning,IT,100-500 miljoen USD
-,,,,€ 3K - € 5K (Schatting werkgever),,,,,,
-"Genmab
-4.3",Utrecht,Discovery Data Scientist,,€ 3K - € 5K (Schatting werkgever),501 tot 1000 werknemers,1999,Beursgenoteerd bedrijf,Biotechnologie en farmacie,Farmaceutische industrie en biotechnologie,Onbekend/niet van toepassing
-,,,,€ 3K - € 5K (Schatting werkgever),,,,,,
-"Working talent
-4.7",Nederland,Data Science traineeship,€ 2.900 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,51 tot 200 werknemers,2017,Privébedrijf,IT-ondersteuning,IT,Onbekend/niet van toepassing
-"a.s.r.
-4.2",Utrecht,Datawarehouse Ontwikkelaar en Data Analist Vermogensbeheer,€ 5.550 /mnd (schatting),Salaris opgegeven door werknemer:€ 5K - € 7K,1001 tot 5000 werknemers,1720,Privébedrijf,Verzekeringsmaatschappijen,Verzekeringen,Minder dan 1 miljoen USD
-"BrightStone Group
-3.9",Utrecht,Junior Data Analist,€ 3.100 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 3K,51 tot 200 werknemers,2013,Beursgenoteerd bedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-"Dustin Group
-1.0",Nijmegen,Data Engineer,,€ 3K - € 5K (Schatting werkgever),51 tot 200 werknemers,Onbekend,Onbekend/niet van toepassing,,,
-"ICT Group
-3.6",Eindhoven,Data Science Product Owner (Cognitive) Search,"€ 29,00 /uur (schatting)","Salaris opgegeven door werknemer:€ 29,00 Per uur",1001 tot 5000 werknemers,1978,Zelfstandige,IT-ondersteuning,IT,100-500 miljoen USD
-"BrightStone Group
-3.9",Utrecht,Data Scientist,€ 2.600 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,51 tot 200 werknemers,2013,Beursgenoteerd bedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-"Genmab
-4.3",Utrecht,Bioinformatics Data Engineer (Catalog),,€ 3K - € 5K (Schatting werkgever),501 tot 1000 werknemers,1999,Beursgenoteerd bedrijf,Biotechnologie en farmacie,Farmaceutische industrie en biotechnologie,Onbekend/niet van toepassing
-"Samskip
-3.4",Rotterdam,Data Scientist,,€ 3K - € 5K (Schatting werkgever),201 tot 500 werknemers,1990,Privébedrijf,Taxibedrijven en personenvervoer per auto,Transport en logistiek,100-500 miljoen USD
-"BrightStone Group
-3.9",Utrecht,Data analist,€ 2.600 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,51 tot 200 werknemers,2013,Beursgenoteerd bedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-"ABN AMRO
-3.9",Amsterdam,Data Scientist,,€ 3K - € 5K (Schatting werkgever),10000+ medewerkers,1991,Overheid,Banken en kredietverstrekking,Finance,5-10 miljard USD
-"Mploy Associates
-4.9",Utrecht,Data Engineer | Talent Program,€ 3.525 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 4K,51 tot 200 werknemers,2018,Privébedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-"De Belastingdienst
-3.7",Utrecht,Data-analist,€ 4.423 /mnd (schatting),Salaris opgegeven door werknemer:€ 4K - € 5K,10000+ medewerkers,Overheid,Rijksoverheid,Openbaar bestuur,Onbekend/niet van toepassing,
-"Samskip
-3.4",Rotterdam,Data Engineer,,€ 3K - € 5K (Schatting werkgever),201 tot 500 werknemers,1990,Privébedrijf,Taxibedrijven en personenvervoer per auto,Transport en logistiek,100-500 miljoen USD
-,,,,€ 3K - € 5K (Schatting werkgever),,,,,,
-"Kamer van Koophandel
-4.2",Utrecht,Data Analist Waardevol Klantcontact,€ 4.669 /mnd (schatting),Salaris opgegeven door werknemer:€ 4K - € 6K,1001 tot 5000 werknemers,1803,Non-profitorganisatie,Regionaal bestuur,Openbaar bestuur,Onbekend/niet van toepassing
-"Always be learning B.V.
-5.0",Nederland,Data Scientist,,€ 3K - € 5K (Schatting werkgever),1 tot 50 werknemers,2020,Contractbasis,Business consulting,Management en consulting,Minder dan 1 miljoen USD
-Mulier instituut,Utrecht,Data Scientist,,€ 3K - € 5K (Schatting werkgever),Onbekend,Privébedrijf,Onbekend/niet van toepassing,,,
-"Experis
-3.6",Den Haag,Python Developer / Data Scientist,€ 3.650 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,5001 tot 10000 werknemers,1953,Dochteronderneming of bedrijfssegment,HR-advies,HR en personeel,25-100 miljoen USD
-"IKEA
-3.9",Amsterdam,"Data Scientist, Inventory & Logistics Operations Group Digital, Ingka Group",,€ 3K - € 5K (Schatting werkgever),10000+ medewerkers,1943,Privébedrijf,Meubel- en huishoudwinkels,Retail en handel,Onbekend/niet van toepassing
-"Yacht
-3.6",Amsterdam,Computer Vision Engineer,,€ 3K - € 5K (Schatting werkgever),1001 tot 5000 werknemers,Dochteronderneming of bedrijfssegment,HR-advies,HR en personeel,100-500 miljoen USD,
-,,,,Salaris opgegeven door werknemer:€ 4K - € 6K,1 tot 50 werknemers,Onbekend,HR-advies,HR en personeel,Onbekend/niet van toepassing,
-"HAYS
-3.7",Utrecht,Data Scientist,,€ 3K - € 5K (Schatting werkgever),5001 tot 10000 werknemers,1968,Privébedrijf,HR-advies,HR en personeel,$1 tot $5 miljard (USD)
-"Experis
-4.1",Den Haag,Python Developer / Data Scientist,€ 3.650 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,10000+ medewerkers,1948,Dochteronderneming of bedrijfssegment,HR-advies,HR en personeel,Meer dan 10 miljard USD
+company_name,location,job_title,salary,salary_range,job_description,size,founded,type_of_ownership,industry,sector,revenue
 "House of Bèta
-4.4",Den Bosch,Traineeship Data Science,€ 2.726 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,201 tot 500 werknemers,2019,Beursgenoteerd bedrijf,IT-ondersteuning,IT,Onbekend/niet van toepassing
-"ASML
-4.1",Veldhoven,Technical Graduate Program – Data Analyst & Business Intelligence,"€ 40,00 /uur (schatting)","Salaris opgegeven door werknemer:€ 40,00 Per uur",10000+ medewerkers,1984,Beursgenoteerd bedrijf,Elektronica-industrie,Industrie,Meer dan 10 miljard USD
-,,,,"€ 12,50 Per uur(Schatting werkgever)",,,,,,
-"Matchpartner
-4.3",Den Haag,Data analist,€ 4.000 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,51 tot 200 werknemers,2002,Privébedrijf,HR-advies,HR en personeel,Onbekend/niet van toepassing
-"BrightStone Group
-3.9",Utrecht,Data engineer,€ 2.600 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,51 tot 200 werknemers,2013,Beursgenoteerd bedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-"it-8
-3.0",Nederland,Data Analist,€ 3.650 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,1 tot 50 werknemers,Zelfstandige,Onbekend/niet van toepassing,,,
-"Louwman Group
-3.7",Amersfoort,Data Engineer,€ 3.250 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 4K,1001 tot 5000 werknemers,1923,Privébedrijf,Verkoop van voertuigen,Retail en handel,$1 tot $5 miljard (USD)
-"Yacht
-3.6",Maastricht,Product Owner Data Science,,"€ 12,50 Per uur(Schatting werkgever)",1001 tot 5000 werknemers,Dochteronderneming of bedrijfssegment,HR-advies,HR en personeel,100-500 miljoen USD,
-"Yacht
-3.6",Enschede,Data analist / Data Professional Development Program,€ 3.750 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,1001 tot 5000 werknemers,Dochteronderneming of bedrijfssegment,HR-advies,HR en personeel,100-500 miljoen USD,
-"Schiphol
-4.2",Schiphol,Senior Data Scientist - Starship,,"€ 12,50 Per uur(Schatting werkgever)",1001 tot 5000 werknemers,2021,Beursgenoteerd bedrijf,Taxibedrijven en personenvervoer per auto,Transport en logistiek,Onbekend/niet van toepassing
-"Mploy Associates
-4.9",Utrecht,Business Analyst | Talent Program,€ 3.525 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 4K,51 tot 200 werknemers,2018,Privébedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-"Inkubis
-5.0",Breda,Machine Learning Engineer,,"€ 12,50 Per uur(Schatting werkgever)",201 tot 500 werknemers,2014,Beursgenoteerd bedrijf,Software development,IT,Onbekend/niet van toepassing
-"CareerValue
-4.0",Zeist,Data analist,€ 4.250 /mnd (schatting),Salaris opgegeven door werknemer:€ 4K - € 5K,1 tot 50 werknemers,Onbekend,HR-advies,HR en personeel,Onbekend/niet van toepassing,
-The New Crew,Amsterdam,Junior Data-Analist BI,€ 2.575 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 3K,Onbekend,Beursgenoteerd bedrijf,Onbekend/niet van toepassing,,,
-"Undutchables
-4.6",Breda,Associate Data Analytics,€ 3.900 /mnd (schatting),Salaris opgegeven door werknemer:€ 4K,1 tot 50 werknemers,1996,Privébedrijf,HR-advies,HR en personeel,Onbekend/niet van toepassing
-,,,,"€ 12,50 Per uur(Schatting werkgever)",51 tot 200 werknemers,2012,Privébedrijf,Business consulting,Management en consulting,1-5 miljoen USD
-MARIN,Wageningen,Applied Data Scientist,,"€ 12,50 Per uur(Schatting werkgever)",Onbekend,Privébedrijf,Onbekend/niet van toepassing,,,
-Facts Consultancy,Nederland,Data Science Intern,,"€ 12,50 Per uur(Schatting werkgever)",,,,,,
-EasternGraphics via Steamz,Eindhoven,Product Data Engineer (32-40 uur),€ 3.000 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 4K,,,,,,
-"Crisp
-3.0",Amsterdam,Data Science & Analytics Internship,,"€ 12,50 Per uur(Schatting werkgever)",51 tot 200 werknemers,Privébedrijf,Onbekend/niet van toepassing,,,
-"bunq
-3.9",Amsterdam,Data Science Intern - Analytics,,"€ 12,50 Per uur(Schatting werkgever)",51 tot 200 werknemers,2012,Zelfstandige,Banken en kredietverstrekking,Finance,Onbekend/niet van toepassing
-"Northpool
-3.4",Leiden,(Junior) Data Scientist,,"€ 12,50 Per uur(Schatting werkgever)",1 tot 50 werknemers,Privébedrijf,Onbekend/niet van toepassing,,,
-"Noldus Information Technology
-4.3",Wageningen,Data Science Engineer,,"€ 12,50 Per uur(Schatting werkgever)",51 tot 200 werknemers,Privébedrijf,Biotechnologie en farmacie,Farmaceutische industrie en biotechnologie,Onbekend/niet van toepassing,
-"Aegon
-3.6",Den Haag,Internship Analytics & Data Science,"€ 12,50 /uur (schatting)","Salaris opgegeven door werknemer:€ 12,50 Per uur",10000+ medewerkers,1844,Beursgenoteerd bedrijf,Verzekeringsmaatschappijen,Verzekeringen,Meer dan 10 miljard USD
-"Dyson
-3.1",Amsterdam,Data Science Lead,,"€ 12,50 Per uur(Schatting werkgever)",10000+ medewerkers,1993,Privébedrijf,Elektronica-industrie,Industrie,Onbekend/niet van toepassing
-"Veridis
-5.0",Nederland,Thermal data analysis internship,,"€ 12,50 Per uur(Schatting werkgever)",1 tot 50 werknemers,Privébedrijf,Onbekend/niet van toepassing,,,
-"Dept
-4.3",Amsterdam,Trainee Data Science Consultant Data,,"€ 12,50 Per uur(Schatting werkgever)",1001 tot 5000 werknemers,2015,Privébedrijf,Internet- en webservices,IT,Onbekend/niet van toepassing
-"Tesla
-3.6",Amsterdam,Data Engineer,,"€ 12,50 Per uur(Schatting werkgever)",10000+ medewerkers,2003,Beursgenoteerd bedrijf,Productie van transportmiddelen,Industrie,$1 tot $5 miljard (USD)
-"managementsolutions
-3.7",Amsterdam,DATA SCIENCE CONSULTANT AMSTERDAM,,"€ 12,50 Per uur(Schatting werkgever)",1001 tot 5000 werknemers,2002,Privébedrijf,Business consulting,Management en consulting,100-500 miljoen USD
-"McKinsey & Company
-4.4",Amsterdam,Data Scientist - QuantumBlack,,"€ 12,50 Per uur(Schatting werkgever)",10000+ medewerkers,1926,Privébedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-,,,,€ 8K (Schatting werkgever),,,,,,
-"House of Bèta
-4.4",Den Bosch,Traineeship Data Science,€ 2.726 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,201 tot 500 werknemers,2019,Beursgenoteerd bedrijf,IT-ondersteuning,IT,Onbekend/niet van toepassing
-"Ministerie van Defensie
-4.2",Den Haag,Data-analist,€ 5.450 /mnd (schatting),Salaris opgegeven door werknemer:€ 5K,10000+ medewerkers,Overheid,Aerospace en defensie,Aerospace en defensie,Onbekend/niet van toepassing,
-"ASML
-4.1",Veldhoven,Technical Graduate Program – Data Analyst & Business Intelligence,"€ 40,00 /uur (schatting)","Salaris opgegeven door werknemer:€ 40,00 Per uur",10000+ medewerkers,1984,Beursgenoteerd bedrijf,Elektronica-industrie,Industrie,Meer dan 10 miljard USD
-"Ministerie van Defensie
-4.2",Utrecht,Data Specialist,€ 6.094 /mnd (schatting),Salaris opgegeven door werknemer:€ 6K,10000+ medewerkers,Overheid,Aerospace en defensie,Aerospace en defensie,Onbekend/niet van toepassing,
-"Matchpartner
-4.3",Den Haag,Data analist,€ 4.000 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,51 tot 200 werknemers,2002,Privébedrijf,HR-advies,HR en personeel,Onbekend/niet van toepassing
+4.4",Amsterdam,Traineeship Data Science,€ 2.726 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,"—Dutch speaking and writing proficiency is required—
+Burgers en bedrijven hebben een schat aan informatie tot hun beschikking. Die informatie wordt lang niet altijd optimaal benut, en blijft vaak zelfs onaangeraakt onder het oppervlak verborgen. In ons traineeship Data Science leer je die informatieschatten vinden, opgraven en benutten. Als trainee ontdek jij de waarde van kwantitatieve informatie en leer jij hoe je belangrijke inzichten ontvouwt uit klant- en bedrijfsinformatie.
+Het ontwikkeltraject in het traineeship Data Science
+De uitdaging
+Het traineeship Data Science bestaat uit drie belangrijke onderdelen:
+Kennismaking met House of Bèta, collega’s en ons opleidingsaanbod tijdens de onboarding.
+Waardevolle ervaring in de praktijk via opdrachten bij onze klanten.
+Een opleidingstraject met aandacht voor vakinhoudelijke opleidingen (o.a. Excel/VBA, SQL en PowerBi) en vaardigheidstrainingen
+Jouw ontwikkeling als trainee Data Science
+Iedere consultant die bij House of Bèta start begint in de oriëntatiefase. De oriëntatiefase is een fase van ongeveer twee jaar waarin je de gelegenheid hebt te ontdekken waar je ambitie ligt en waarin jij je zou willen specialiseren. Ben jij er al zeker van dat je Data Analist wil worden? Dat klinkt goed, dan leg je in de oriëntatiefase de basis voor deze rol.
+Leren in de schoolbanken is enorm kostbaar en soms is het beter om te leren in de praktijk. En dat doe je met ons traineeship Data Science. Op opdracht bij bekende klanten als ING, Achmea en PGGM ga jij jouw affiniteit met Data verder vormgeven. Dagelijks komen bij ons aanvragen binnen voor rollen als medewerker Servicedesk IT, Data Steward of Junior Data Analist. Wij matchen jou op het juiste moment in je ontwikkeling met de juiste functie.
+Ben je na de eerste IT-opdrachten goed bekend met de materie en klaar voor jouw volgende stap als bèta professional? Dan groei je door richting een functie als Data Analist of Data Scientist
+Opleidingen en vaardigheidstrainingen in het Traineeship Data Science
+Via onze opleidingsstraat ga jij de theorie leren die nodig is voor jouw professionele ontwikkeling als IT’er. Als bèta talent haal jij verschillende certificaten in bijvoorbeeld Excel, VBA, Data Science Fundamentals en SQL. Qua vaardigheidstrainingen kun je Effectief Communiceren, en Personal Development verwachten. Een traineeship bij House of Bèta is pittig, maar leerzaam. Je hebt zelfs de mogelijkheid om een masteropleiding te volgen!
+Wat vragen we van onze Bèta’s?
+36 of 40 uur beschikbaar
+(Bijna) hbo of wo afgestudeerd en starter op de arbeidsmarkt
+Gericht op professionele en persoonlijke ontwikkeling
+Scherp, goed met cijfers en loyaal
+Flexibel inzetbaar én enthousiast over detachering
+Reisbereid naar de Randstad, want daar zitten onze opdrachtgevers!
+In bezit van een rijbewijs. Anders staat die leaseauto ook maar een beetje mooi te wezen
+Wat bieden we onze Bèta’s?
+Maandsalaris (inclusief 8% vakantiegeld) van €2.763,- i.c.m. eigen vervoer of €2.538,- mét leaseauto (en zónder een eigen bijdrage)
+Een flexibel mobiliteitsbudget afgestemd op jouw vervoersvoorkeuren: leaseauto of -fiets, NS Businesscard, deelscooter of €225,- bruto vergoeding! Tussentijds switchen mogelijk!
+Een verhoging van het bruto maandsalaris van maximaal €300,- na jaar 1 en €400,- na jaar 2 én jaarlijks tot 8% bonus
+Dat betekent dat wanneer je eigen vervoer regelt, je gemiddeld €2.951,- bruto per maand verdient in jaar 1 en €3.299,- per maand in jaar 2
+Kies jij voor een leaseauto? Dan verdien je gemiddeld €2.726,- bruto per maand in jaar 1 en €3.074,- per maand in jaar 2
+Direct een vast contract én 27 vakantiedagen
+Een eigen Career Coach en onbeperkt budget voor opleidingen, trainingen, bijscholing voor jouw ontwikkeling!
+In korte tijd veel relevante werkervaring opdoen bij aansprekende namen binnen en buiten de financiële dienstverlening!
+Werk maken van deze vacature?
+Solliciteer je bij House of Bèta, dan is één vraag erg belangrijk: zijn wij een match? Daar komen we maar op een manier achter: via een kennismaking! Solliciteer, en vertel ons meer over jouw ambities. Heb je vragen of wil je meer informatie? Neem dan contact op met onze recruiter Anna Swart via anna.swart@houseofbeta.nl of 06-19 03 68 94.",201 tot 500 werknemers,2019,Beursgenoteerd bedrijf,IT-ondersteuning,IT,Onbekend/niet van toepassing
+"Politie
+3.8",Driebergen,data engineer Multi Data Center (MDC),€ 4.283 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 6K,"Criminele netwerken infiltreren onze wijken en buurten. Ze ondermijnen onze economie met hun criminele geld. Daarnaast veroorzaken ze veel leed met intimidatie, corruptie en zwaar geweld. Wil jij dit samen met de partnerorganisaties van de Nationale Samenwerking tegen Ondermijnende Criminaliteit (NSOC) bestrijden en bouwen aan een veilig Nederland? Grijp dan deze kans en kom werken bij NSOC als data engineer!
+Specificaties vacature
+Locatie(s):
+Driebergen
+Organisatieonderdeel:
+Staf Korpsleiding
+Vakgebied(en):
+ICT
+Niveau:
+HBO
+Wat ga je doen?
+Als data engineer ontsluit je data uit verschillende bronnen en formats, combineer je de data en schoon je deze op. Ook zorg je voor het opzetten en verbeteren van (bestaande) ETL jobs. Je ontwerpt en ontwikkelt datamodellen en pipelines voor analyse en machine-learning-projecten. Daarnaast ondersteun je data scientists en data analisten bij het uitrollen van machine learning modellen en dashboards naar een productie-omgeving, en denk je mee over de data-architectuur en tooling. In samenwerking met digitaal specialisten en data stewards zorg je voor de planning en uitvoering van dataontsluiting bij verschillende (overheids)organisaties en open bronnen.
+Waar ga je werken?
+NSOC is een samenwerkingsverband tussen de politie, de Belastingdienst, de Fiscale Inlichtingen- en Opsporingsdienst, de douane, het Openbaar Ministerie en de Koninklijke Marechaussee en andere operationele onderdelen van het ministerie van Defensie. Het heeft tot doel criminele structuren, bedrijfsprocessen en verdienmodellen - die verweven zijn met of misbruik maken van legale structuren en de legale economie - bloot te leggen en duurzaam te verstoren. Het samenwerkingsverband richt zich op het ontvlechten van de (financiële) verwevenheid van onder- en bovenwereld door met gerichte interventies te belemmeren dat de maatschappelijke infrastructuur wordt misbruikt voor criminele doeleinden.
+Het bestrijden van deze criminele netwerken vereist dat NSOC en de medewerkers wendbaar, innovatief en op multidisciplinaire samenwerking gericht zijn. NSOC werkt overheidsbreed en datagedreven. Dat betekent dat er vanuit alle kanten kennis, expertise en informatie wordt samengebracht om zo een compleet beeld te krijgen van georganiseerde en ondermijnende criminaliteit. Naast een compleet beeld, brengt het samenwerkingsverband slagkracht. Het werkt innovatief en fungeert daarmee als vliegwiel voor vernieuwing. NSOC beschikt over mensen en middelen om verkregen inzichten om te zetten in slimme en innovatieve interventies: van preventief tot repressief, binnen en buiten het strafrecht en met publieke en private partijen.
+In NSOC werken professionals uit zes partnerorganisaties op één fysieke werkplek samen. NSOC is in opbouw, er werken nu ongeveer 120 medewerkers. Samenwerking is de rode draad binnen NSOC. Daarom zijn wij op zoek naar collega's die openstaan voor anderen, verschillen weten te overbruggen en anderen kunnen en willen stimuleren en betrekken om zo het gemeenschappelijke doel te bereiken. Integriteit in de omgang met mensen en data en het doen van inhoudelijk werk staat voorop.
+Het Multi Data Center (MDC) is geplaatst in het hart van het NSOC. Een multidisciplinair samengesteld team dat uiteindelijk zal groeien tot circa 50 fte. Het MDC is verantwoordelijk voor de datascience wijze van werken binnen NSOC en bestaat uit onder andere digitaal specialisten, data engineers, data scientists, software developers en een dataverkenner. Deze manier van werken is kort cyclisch (Agile) en typerend voor de werkwijze van NSOC.
+Wie ben jij?
+Vanuit diversiteit samenwerken aan een gemeenschappelijk doel, dat is waar het om draait binnen het NSOC. Want diversiteit is onze kracht en van daaruit verbinden we met elkaar en met onze omgeving. Jij omarmt deze gedachte en brengt tevens een dosis creativiteit en 'outside the box' denken met je mee. Dat zul je nodig hebben, want werken bij het NSOC betekent ook dat je moet kunnen experimenteren en innoveren. Daarom zoeken we collega's die lef tonen, actiegericht en daadkrachtig zijn.
+Je vindt het leuk om je bezig te houden met verschillende soorten databronnen en onderhoudt daarvoor intensieve contacten bij verschillende organisaties. Je kunt transparant communiceren naar zowel interne als externe stakeholders, en bent in staat om enerzijds nieuwe tools te introduceren bij het team en anderzijds de beschikbare tools in te zetten voor dataverwerking op de korte termijn.
+Daarnaast beschik je in ieder geval over:
+een hbo-diploma;
+ervaring met data engineering in een data science context;
+ervaring met ontsluiten en combineren van grote hoeveelheden data uit diverse bronnen en in verschillende formats;
+ervaring met ontwerpen, ontwikkelen, testen, documenteren en onderhouden van schema's en ETL-pipelines die gebruikt kunnen worden voor analyse databases;
+ervaring met tools en technieken zoals bijvoorbeeld REST API's, AWS, Kubernetes, Elasticsearch, Spark;
+ervaring met Python;
+ervaring met Git;
+ervaring met Infrastructure as Code en CI/CD.
+Wat wij bieden
+De standplaats is Driebergen. Er is ruimte voor 1 fte. Het betreft een functie voor 36 uur per week.
+Afhankelijk van je achtergrond volg je aan de Politieacademie een 14-weekse opleiding voor specifieke inzetbaarheid (36 uur per week), met eventueel aansluitend een voor de functie benodigd aanvullend opleidingsprogramma. Tijdens deze opleiding(en) ontvang je al het met jou overeengekomen salaris. Het positief afronden van het verplichte assessment is voorwaarde om aan de opleiding te kunnen beginnen. Het behalen van de opleiding is een vereiste om deze functie uit te kunnen oefenen. Hier vind je alle informatie met betrekking tot de selectieprocedure, het assessment en de opleiding.
+Tijdens de interne specifieke politieopleiding word je tijdelijk aangesteld als ambtenaar in opleiding. Na het voltooien van de opleiding bieden we je een tijdelijke aanstelling aan, waarbij een proeftijd van één jaar van toepassing is. Na deze proeftijd volgt zo snel mogelijk een vaste aanstelling.
+Binnen de politie investeren we in jouw toekomst. We bieden uitgebreide ontwikkelingsmogelijkheden en een aantrekkelijk pakket arbeidsvoorwaarden. Denk hier bij aan:
+een bruto maandsalaris van minimaal € 3.063- en maximaal € 5.503,- (schaal 10 of 11 Bbp) op basis van een 36-urige werkweek;
+8% vakantie- en 8,33% eindejaarsuitkering;
+goede pensioenregeling en betaald ouderschapsverlof (meer info over verlof, regelingen en mogelijkheden).
+De formele functie binnen het functiegebouw van de politie is operationeel specialist B of operationeel specialist C. Dit wordt bepaald op basis van kennis en ervaring.
+Interesse?
+Bel of mail met Frido Koolstra (06 - 46 33 09 09, frido.koolstra@politie.nl) als je meer informatie over de functie wilt hebben. Voor vragen over de sollicitatieprocedure bel of mail je met Ostar Roozenbeek, ICT-recruiter (06 - 47 65 91 71, ostar.roozenbeek@politie.nl).
+Solliciteer uiterlijk 15 november 2022 via de sollicitatiebutton.
+Wat verder belangrijk is
+Een veiligheidsonderzoek A en mogelijk een assessment maken deel uit van de selectieprocedure.
+Je hebt de Nederlandse nationaliteit (dit mag ook je tweede nationaliteit zijn).
+Zonder IT'ers zijn we nergens. Ben jij expert in IT? Lees alles over o.a. data science, legaal hacken of cybersecurity en test je digitale skills in de Cybercrime Challenge op http://it.kombijdepolitie.nl/
+De politie zet in op vernieuwing en cultuurverschillen binnen teams. Divers samengestelde teams presteren beter. Daarom werken we hard aan een open en veilige cultuur waarin divers talent tot bloei komt.",1001 tot 5000 werknemers,Overheid,Rijksoverheid,Openbaar bestuur,Onbekend/niet van toepassing,
 "Breinstein Detachering
-4.4",Groningen,Junior Data Analist,€ 2.700 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,51 tot 200 werknemers,2010,Privébedrijf,HR-advies,HR en personeel,Onbekend/niet van toepassing
-"it-8
-3.0",Nederland,Data Analist,€ 3.650 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,1 tot 50 werknemers,Zelfstandige,Onbekend/niet van toepassing,,,
-"Louwman Group
-3.7",Amersfoort,Data Engineer,€ 3.250 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 4K,1001 tot 5000 werknemers,1923,Privébedrijf,Verkoop van voertuigen,Retail en handel,$1 tot $5 miljard (USD)
-,,,,€ 8K (Schatting werkgever),,,,,,
-"Inkubis
-5.0",Breda,Machine Learning Engineer,,€ 8K (Schatting werkgever),201 tot 500 werknemers,2014,Beursgenoteerd bedrijf,Software development,IT,Onbekend/niet van toepassing
-"Schiphol
-4.2",Schiphol,Senior Data Scientist - Starship,,€ 8K (Schatting werkgever),1001 tot 5000 werknemers,2021,Beursgenoteerd bedrijf,Taxibedrijven en personenvervoer per auto,Transport en logistiek,Onbekend/niet van toepassing
-"Mploy Associates
-4.9",Utrecht,Business Analyst | Talent Program,€ 3.525 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 4K,51 tot 200 werknemers,2018,Privébedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-The New Crew,Amsterdam,Junior Data-Analist BI,€ 2.575 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 3K,Onbekend,Beursgenoteerd bedrijf,Onbekend/niet van toepassing,,,
-"CareerValue
-4.0",Den Bosch,Data Scientist,€ 6.500 /mnd (schatting),Salaris opgegeven door werknemer:€ 7K,1 tot 50 werknemers,Onbekend,HR-advies,HR en personeel,Onbekend/niet van toepassing,
-Uitzendbureau 65plus,Amsterdam,Data analist,,€ 8K (Schatting werkgever),Onbekend,Beursgenoteerd bedrijf,Onbekend/niet van toepassing,,,
-"CareerValue
-4.0",Houten,Data analist,€ 3.250 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 4K,1 tot 50 werknemers,Onbekend,HR-advies,HR en personeel,Onbekend/niet van toepassing,
-"Unique
-4.3",Middelburg,Data scientist,€ 4.961 /mnd (schatting),Salaris opgegeven door werknemer:€ 4K - € 6K,201 tot 500 werknemers,1972,Beursgenoteerd bedrijf,Gebouw en personeelsservices,Management en consulting,100-500 miljoen USD
-"Undutchables
-4.6",Breda,Associate Data Analytics,€ 3.900 /mnd (schatting),Salaris opgegeven door werknemer:€ 4K,1 tot 50 werknemers,1996,Privébedrijf,HR-advies,HR en personeel,Onbekend/niet van toepassing
-"Fahr-Becker
-2.0",Eindhoven,Data Scientist,,€ 8K (Schatting werkgever),Onbekend,Privébedrijf,Onbekend/niet van toepassing,,,
-"Yacht
-3.6",Enschede,Data analist / Data Professional Development Program,€ 3.750 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,1001 tot 5000 werknemers,Dochteronderneming of bedrijfssegment,HR-advies,HR en personeel,100-500 miljoen USD,
-"EY
-3.9",Amsterdam,"Junior Data Science Consultant (Python, R, SQL)",,€ 8K (Schatting werkgever),Onbekend,Onbekend,Onbekend/niet van toepassing,,,
-"Tesla
-3.6",Amsterdam,Data Engineer,,€ 8K (Schatting werkgever),10000+ medewerkers,2003,Beursgenoteerd bedrijf,Productie van transportmiddelen,Industrie,$1 tot $5 miljard (USD)
-"Aegon
-3.6",Den Haag,Junior Data Analist,€ 3.275 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 4K,10000+ medewerkers,1844,Beursgenoteerd bedrijf,Verzekeringsmaatschappijen,Verzekeringen,Meer dan 10 miljard USD
-"IG&H
-4.2",Utrecht,Junior Data Engineer (Utrecht or Munich),,€ 8K (Schatting werkgever),201 tot 500 werknemers,1988,Privébedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-"NATO - OTAN
-4.1",Brunssum,Temporary Senior Analyst (Data Science) - NATO 2030,€ 8.212 /mnd (schatting),Salaris opgegeven door werknemer:€ 8K,1001 tot 5000 werknemers,1949,Privébedrijf,Ledenorganisaties,Management en consulting,Onbekend/niet van toepassing
-"Amazon EU SARL (Netherlands B)
-3.8",Amsterdam,Data Scientist,,€ 8K (Schatting werkgever),10000+ medewerkers,1994,Beursgenoteerd bedrijf,Internet- en webservices,IT,Meer dan 10 miljard USD
-"Ministerie van Financiën
-3.9",Den Haag,Data-scientist,,€ 8K (Schatting werkgever),Onbekend,Onbekend,Onbekend/niet van toepassing,,,
-"Sia Partners
-3.9",Rotterdam,Data & Analytics Consultant,,€ 8K (Schatting werkgever),1001 tot 5000 werknemers,1999,Privébedrijf,Business consulting,Management en consulting,100-500 miljoen USD
-"Capgemini
-4.1",Utrecht,Data Scientist,,€ 8K (Schatting werkgever),5001 tot 10000 werknemers,1967,Beursgenoteerd bedrijf,Ondernemingssoftware en netwerkoplossingen,IT,Meer dan 10 miljard USD
+4.5",Amsterdam,Junior Data Engineer,€ 3.600 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,"Functieomschrijving
+Organisaties beschikken over grote hoeveelheden waardevolle data. Veel van deze schatten aan informatie blijven tot op heden vaak onbenut. Zonde!
+Als Junior Data Engineer ben je een soort Houdini die de data uit systemen weet te bevrijden, structureren en organiseren. Je legt het stevige fundament voor toekomstige data analyses en denkt strategisch mee over het gebruik van data.
+Vliegt de tijd als je lekker aan het programmeren bent en zou je hier graag nog beter in willen worden? Ga dan aan de slag als Junior Data Engineer en zet jouw skills in om onze opdrachtgevers te helpen nog meer waarde uit hun big data te halen.
+Wat ga je doen als Junior Data Engineer in regio Amsterdam?
+Jouw ambitie? Jouw ervaring in data engineering verder uitbreiden en een volwaardig data architect worden.
+Jij hebt een achtergrond in het vakgebied Business IT, data analytics, data science of data engineering. Je weet op hoofdlijnen hoe je data uit systemen ontsluit. Klassieke ERP systemen, open data of ondeugende API’s, jij gaat geen uitdaging uit de weg.
+Als Junior Data Engineer ga je aan de slag bij één of meerdere van onze interessante opdrachtgevers binnen profit of non-profit. Veel van deze organisaties hebben al een young professional in dienst vanuit ons traineeship data analytics. Vaak spelen er bij deze organisaties ook ingewikkeldere data vraagstukken: daar komt jouw expertise goed van pas!
+Onze opdrachtgevers werken met een grote diversiteit aan tools en systemen waar hun waardevolle data in opgeslagen staat. Daarom is het belangrijk dat jij weet wat ETL tools zijn en kennis hebt van Data Platforms. Ook ben je leergierig, en wil je de tools die je nog niet kent snel eigen maken. Daar gaan wij je bij helpen, want je mag van ons nog een opleiding volgen. Hoe tof is dat!
+Wat bieden we jou?
+Een marktconform salaris, afhankelijk van jouw ervaring
+Een opleidingsbudget van 3500 euro om jouw kennis van het vakgebied up to date te houden en verder te vergroten. Het vakgebied staat niet stil, dus jij ook niet!
+De kans om je in dit waardevolle vakgebied te specialiseren
+Uitdagende opdrachten binnen bijvoorbeeld gemeenten, ministeries, luchtvaartmaatschappijen, winkelketens, verzekeraars en NGO’s
+Een ervaren coach die met jou spart over jouw persoonlijke ontwikkeling
+Een groot netwerk van professionals en andere vakidioten
+Een kans om in korte tijd meer organisatiestructuren te leren kennen
+De kans om strategisch mee te denken aan gave innovatieve projecten
+Pensioenopbouw
+25 vakantiedagen en 8,33% vakantiegeld
+Reiskostenvergoeding
+Wat vragen wij?
+Jij hebt een passie voor puzzelen in grote hoeveelheden big data en weet de juiste informatie daar uit te halen. Daarnaast heb je:
+Een Bachelor of Master opleiding richting Business IT / Data Analytics, Data Science of het Data Engineering vakgebied.
+Kennis van ETL tools, API's of dataplatformen zoals AWS of Azure
+Ervaring met SQL, Python en/of R
+Bij voorkeur kennis van dashboarding tools zoals PowerBI, Tableau. Qlik of R Shiny
+Projectmanagement vaardigheden om data projecten goed te organiseren
+Communicatieve vaardigheden waardoor jij goed contact weet te onderhouden met jouw stakeholders
+Nieuwsgierig? Wij in ieder geval wel naar jou!
+Wil je meer informatie over deze vacature neem dan vrijblijvend contact op met Danielle Swets. Stuur een mail naar danielleswets@breinstein.nl of bel naar 06-20662841.",51 tot 200 werknemers,2010,Privébedrijf,HR-advies,HR en personeel,Onbekend/niet van toepassing
 "ABN AMRO
-3.9",Amersfoort,Data Analist Intelligence Led Financial Crime (DFC),€ 4.800 /mnd (schatting),Salaris opgegeven door werknemer:€ 4K - € 6K,10000+ medewerkers,1991,Overheid,Banken en kredietverstrekking,Finance,5-10 miljard USD
-"ASML
-4.1",Veldhoven,Technical Graduate Program – Data Analyst & Business Intelligence,"€ 40,00 /uur (schatting)","Salaris opgegeven door werknemer:€ 40,00 Per uur",10000+ medewerkers,1984,Beursgenoteerd bedrijf,Elektronica-industrie,Industrie,Meer dan 10 miljard USD
+3.9",Amstelveen,Data Scientist (Security),,€ 3K - € 7K (Schatting werkgever),"Data Scientist (Security)
+At a glance
+We are on a mission to use data science to make cyber security data driven. At ABN AMRO we have vast amounts of data that can be used to make the bank, its customers and employees more secure. Fraud detection on payments and network monitoring are obvious areas where you can help. Access control, identity management and security governance are domains that can also be made more secure by becoming data driven. With your great team spirit, creative mindset and knowledge of data you are able to deliver the data driven solutions of tomorrow. Are you able to deep dive into the data and get insights out? Come join us!
+
+Your job
+As a data scientist in the Corporate Information Security Office (CISO), your work will make the customers and employees of the bank more secure. You identify (security) problems to solve and find opportunities where you can add value. Generate insight from the data and come up with novel (machine learning) solutions is something you excel at. You will be working closely with our internal process owners and set up research with them. Designing and creating prototypes and driving implementations.
+Typical activities include:
+Identify problems and opportunities that can be solved with data (science). Determine the security business value. How much will a solution contribute in solving the security problem?
+Understand data. Import, explore, and visualise (EDA) it. Create features from this data together with the security process owners.
+Use state of the art data science techniques e.g. to train and develop predictive models,
+Assess the performance and value of your models and communicate this at the right level to your customers.
+Help implement your data products in the various prototyping and production environments.
+Collaborate with internal and external partners on security research and innovation that goes beyond normal data science activities.
+Educate: explain/train data science to stakeholders to enhance cooperation.
+
+Working environment
+You will be working for Technology & Engineering (T&E). Our role is to be the central hub for security related advice and to provide security services to the rest of CISO and the bank. We have about 60 employees with different and diverse backgrounds. We are part of CISO that has over 440 employees that work on all aspects of cyber security of the bank. CISO has adopted an agile way of working where we take on challenges as a team, regardless of hierarchy. We want to be the driving force for security of the bank, our customers and society. Banking for better, for generations to come.
+
+Your profile
+You have a quantitative MSc, PhD or similar and a minimum of three years of work experience as a data scientist (next to any internships). You are creative team player and you are not afraid to give and ask for help and feedback.
+You have many of the following typical data science skills:
+Machine Learning algorithms (such as Scikit-learn, Tensorflow, Keras, PyTorch), Programming: Python and SQL
+Statistics, experiment design, mathematics.
+Data Wrangling, ETL, Big Data systems (e.g. Hadoop, Spark)
+Data engineering / ML engineering. Implement advanced analytics robustly in various target (cloud) systems. Experience with databases (Postgress / Splunk), containerizing (Docker, Kubernetes), Cloud tools (Azure Databricks and Azure Data Lake Storage) is preferred.
+Communication and Data Visualization: Knowing Your Audience
+Consultancy skills: keen, finding the ‘real’ problem that needs to be solved. Relentless but friendly, following processes.
+And it would be great if you have some typical domain knowledge too like:
+Internet technology: networks, web applications, http, json, xml;
+Information security: identity and access, cybercrime, cyber security;
+Banking or financial sector;
+Agile-scrum way of working.
+
+We are offering
+Apart from a fantastic job working in a great team we are also offering:
+An open, innovative and stimulating department where you can grow as a data scientist;
+A way to contribute to a safer world as a financial crime fighter;
+The opportunity to be the best you can be, work flexible hours and lots of room to grow both personally and professionally;
+The opportunity to pro-actively work on your vitality and fitness;
+A supplementary benefit budget of 11%, which you can spend on additional fringe benefits;
+A personal development budget of EUR 1.000 per year;
+A department budget for relevant trainings and visiting great (virtual) conferences to expand views on data science in the field of security;
+An annual public transportation pass;
+A solid pension plan;
+Home working allowance of EUR 2 for each day you work from home, internet allowance of EUR 25 per month and all the tools you need to work from home as you would in the office.
+Equal opportunities for everyone, regardless of your background.
+
+Interested?
+Tell us your story. We want to hear it! For more information about these positions, please contact Emmy Horsch - van Zuylen, Recruiter by e-mail emmy.horsch-van.zuylen@nl.abnamro.com
+
+Equal opportunities for all
+The success of our organisation depends on the quality of our people and the ideas that they have. Truly surprising insights and innovative solutions for our clients result from an interplay of cultures, knowledge and experience. Diversity is therefore extremely important to our organisation. To ensure that everyone at ABN AMRO can develop their talents, we encourage an inclusive culture in which all colleagues feel engaged and appreciated.
+Disclaimer external recruitment agencies
+External recruitment agencies need to have a signed agreement with ABN AMRO BANK N.V., executed by a Talent Acquisition Specialist, when submitting a resume to a vacancy. In addition, a recruitment agency can only submit a resume when invited by a Talent Acquisition Specialist to join the search for a right candidate. All unsolicited resumes sent to us will be considered property of ABN AMRO BANK N.V. In this case, ABN AMRO will not be held liable to pay a placement fee.",10000+ medewerkers,1991,Overheid,Banken en kredietverstrekking,Finance,5-10 miljard USD
 "Ministerie van Defensie
-4.2",Den Haag,Data-analist,€ 5.450 /mnd (schatting),Salaris opgegeven door werknemer:€ 5K,10000+ medewerkers,Overheid,Aerospace en defensie,Aerospace en defensie,Onbekend/niet van toepassing,
-"BMC
-3.8",Amersfoort,Data analist in publieke sector,€ 4.000 /mnd (schatting),Salaris opgegeven door werknemer:€ 4K,1001 tot 5000 werknemers,1986,Beursgenoteerd bedrijf,Meubel- en huishoudwinkels,Retail en handel,$1 tot $5 miljard (USD)
-"Ministerie van Defensie
-4.2",Utrecht,Data Specialist,€ 6.094 /mnd (schatting),Salaris opgegeven door werknemer:€ 6K,10000+ medewerkers,Overheid,Aerospace en defensie,Aerospace en defensie,Onbekend/niet van toepassing,
-"Breinstein Detachering
-4.4",Amsterdam,Junior Data Analist,€ 2.700 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,51 tot 200 werknemers,2010,Privébedrijf,HR-advies,HR en personeel,Onbekend/niet van toepassing
-"it-8
-3.0",Den Bosch,Data Analist,€ 3.650 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,1 tot 50 werknemers,Zelfstandige,Onbekend/niet van toepassing,,,
-"BrightStone Group
-3.9",Amsterdam,Data analist,€ 2.600 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K,51 tot 200 werknemers,2013,Beursgenoteerd bedrijf,Business consulting,Management en consulting,Onbekend/niet van toepassing
-"Matchpartner
-4.3",Den Haag,Data analist,€ 4.000 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,51 tot 200 werknemers,2002,Privébedrijf,HR-advies,HR en personeel,Onbekend/niet van toepassing
-"StarApple
-4.6",Den Haag,Business Intelligence engineer,€ 4.000 /mnd (schatting),Salaris opgegeven door werknemer:€ 3K - € 5K,51 tot 200 werknemers,2008,Privébedrijf,Business consulting,Management en consulting,25-100 miljoen USD
+4.2",Den Haag,Data-analist,€ 5.450 /mnd (schatting),Salaris opgegeven door werknemer:€ 5K,"Wat ga je doen?
+Als data-analist bij de Inspectie Veiligheid Defensie in Den Haag draag je rechtstreeks bij aan het kernproces van de inspectie: de onderzoeken. Veel onderzoeken vinden plaats naar aanleiding van een ongeval of incident, maar ze kunnen ook thematisch of systeemgericht van aard zijn. Jouw belangrijkste missie is het samenbrengen en analyseren van data, met als doel die om te zetten naar inzichtelijke, direct bruikbare informatie.
+Vanuit jouw rol neem je op parttime basis deel in meerdere onderzoeksteams. In zo’n team werk je meestal samen met inspecteurs, een methodoloog, een redacteur en (indien nodig) vakinhoudelijke specialisten. Daarbij stel je je op als een echte teamspeler en ben je bereid een stapje extra te doen als het hogere belang dat van je vraagt. Verder werk je als senior staffunctionaris zelfstandig aan producten, die je uitdraagt en verdedigt tot in het managementteam. Je onderhoudt in dat kader ook een functioneel netwerk binnen en buiten Defensie.
+Een specifieke taak voor jou als data-analist is het ontwikkelen van 'risicogestuurd toezicht' als nieuw toezichtinstrument. Risicogestuurd toezicht is een vorm van toezicht die de inspectie in staat stelt om te focussen op risicogebieden die met behulp van data-analyse zijn blootgelegd. Jij denkt na en adviseert over de kansen die data-science biedt voor het toezicht en het (door)ontwikkelen van de bijbehorende ICT-tools. Daarbij werk je nauw samen met de toezichthouders binnen Defensie en heb je functionele contacten met de andere toezichthouders binnen het Rijk.
+Wie zoeken we
+Je hebt wo-werk- en -denkniveau en een diploma in een relevante richting.
+Je hebt bij voorkeur kennis van het research- en developmentproces van Defensie.
+Je hebt goede adviesvaardigheden en ervaring met het functioneel aansturen, begeleiden en coachen van collega’s.
+Je hebt oog voor de omgeving en kunt goed omgaan met politiek-bestuurlijke gevoeligheden.
+Je kunt overtuigend communiceren, goed plannen, organiseren en samenwerken en beschikt over goede netwerkvaardigheden.
+Arbeidsvoorwaarden
+Salarisniveau schaal 13
+Minimum salaris: €5.450 bruto per maand
+Maximum salaris: €6.800 bruto per maand
+Contractduur 2 jaar met uitzicht op een vaste aanstelling
+Aantal uren per week 38
+Plaats Den Haag, Zuid-Holland
+
+Overige arbeidsvoorwaarden
+Naast het salaris en vakantiegeld kun je rekenen op een eindejaarsuitkering van 8,33%. Defensie hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer maximaal 75% betaald ouderschapsverlof (onder voorwaarden), studiefaciliteiten, een extra verlofregeling voor ouderen en een vergoeding woon-werkverkeer.
+De organisatie Ministerie van Defensie, Bestuursstaf
+Het ministerie van Defensie bestaat uit de Bestuursstaf (het departement), de Koninklijke Marine, de Koninklijke Landmacht, de Koninklijke Luchtmacht, de Koninklijke Marechaussee, het Defensie Ondersteuningscommando (DOSCO) en de Defensie Materieel Organisatie (DMO).
+Defensie vertoont overeenkomsten met een groot bedrijf. De operationele commando's (zee-, land- en luchtstrijdkrachten), de Marechaussee, het DOSCO en de DMO lijken op werkmaatschappijen. Defensie heeft ongeveer 68.000 medewerkers en is daarmee een van de grotere werkgevers van Nederland. Bij de Bestuursstaf, gevestigd aan het Plein in Den Haag, werken ongeveer 3.000 burgers en militairen.
+Defensie is een operationele en uitvoerende organisatie. Hoofddoel is het gereedstellen en beschikbaar houden van operationele eenheden en de succesvolle inzet daarvan, zowel in nationaal als internationaal verband. De Bestuursstaf geeft hier namens de minister sturing aan door het formuleren van het defensiebeleid, het toewijzen van middelen aan alle defensieonderdelen, het toezicht houden op de besteding daarvan en het opstellen van kaders voor de defensiebrede bedrijfsvoering.
+De afdeling Inspectie Veiligheid Defensie
+De Inspectie Veiligheid Defensie (IVD) houdt toezicht op de veiligheid binnen de Defensieorganisatie. Het gaat hierbij zowel om de bedrijfsveiligheid (ook wel fysieke of arboveiligheid genoemd) als de sociale veiligheid en integriteit. Een brede en uitdagende opdracht dus. De inspectie is opgericht in 2018 en bestaat uit dertig vaste krachten. En al zijn we nog relatief jong en bescheiden qua omvang, we vormen een professionele organisatie. Dat wil zeggen: plat en met korte lijnen, bemenst door zelfstandige, ter zake kundige specialisten. De IVD kent twee afdelingen: Onderzoek, en Strategie en Organisatie. De functie van data-analist valt onder de afdeling Strategie en Organisatie.
+Bijzonderheden
+Heb je nog niet het juiste veiligheidsscreeningsniveau? Houd er dan rekening mee dat een veiligheidsonderzoek deel uitmaakt van de selectieprocedure.
+Een assessment kan deel uitmaken van de selectieprocedure.
+De vacature wordt zowel in- als extern gepubliceerd. We kijken eerst naar geschikte interne kandidaten. Vinden we geen goede kandidaten, dan breiden we de selectie uit met externe kandidaten.
+Wij zetten ons in om medewerkers in dienst te nemen die onder de doelgroep van de Wet banenafspraak vallen. Sta jij geregistreerd in het doelgroepenregister, dan nodigen we ook jou uit om te reageren. Samen met jou kijken we of en hoe je eventueel invulling kunt geven aan deze functie.
+Defensie is een organisatie waarin integriteit en professionaliteit voorop staan. De manier waarop de medewerkers van Defensie met elkaar behoren om te gaan staat omschreven in de Gedragscode Defensie. De gedragscode vormt de basis van wat Defensie onder integriteit verstaat. Als organisatie vinden wij het belangrijk dat nieuwe medewerkers op de hoogte zijn van de gedragscode Defensie. Meer informatie hierover is te vinden via www.defensie.nl/onderwerpen/integriteit.
+Jouw sollicitatiegegevens worden uiterlijk drie maanden na afronding van de selectieprocedure vernietigd. Deze termijn is langer dan de standaardtermijn die de Algemene verordening gegevensbescherming voorschrijft. Deze langere termijn is nodig voor het geval er een bezwaar- en/of beroepsprocedure wordt gestart.",10000+ medewerkers,Overheid,Aerospace en defensie,Aerospace en defensie,Onbekend/niet van toepassing,
