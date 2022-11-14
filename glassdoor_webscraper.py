@@ -113,7 +113,7 @@ def get_jobs(keyword, num_jobs, verbose):
 
                 try:
                     salary_range_list = driver.find_elements(
-                        by="xpath", value='.//span[@class="css-16uanij e1wijj242"]')
+                        by="xpath", value='.//span[@class="css-1xe2xww e1wijj242"]')
                     salary_range = salary_range_list[-1].text
                 except NoSuchElementException:
                     salary_range = ''
@@ -172,3 +172,4 @@ def get_jobs(keyword, num_jobs, verbose):
 
     # This line converts the dictionary object into a pandas DataFrame.
     return pd.DataFrame(jobs)
+
